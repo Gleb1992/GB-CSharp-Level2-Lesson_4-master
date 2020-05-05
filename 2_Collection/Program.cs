@@ -16,7 +16,7 @@ namespace _2_Collection
             var q = new Questions();
             WriteLine("Задание 4.2");
             WriteLine("Грибков");
-            WriteLine($"2.Дана коллекция List<T>. Требуется подсчитать, сколько раз каждый элемент встречается в данной коллекции: {Environment.NewLine} a  для целых чисел;{Environment.NewLine} b *для обобщенной коллекции;{Environment.NewLine} c**используя Linq.");
+            WriteLine($"2.Дана коллекция List<T>. Требуется подсчитать, сколько раз каждый элемент встречается в данной коллекции: {Environment.NewLine} a  для целых чисел;{Environment.NewLine} b *для обобщенной коллекции;{Environment.NewLine} c**используя Linq");
             WriteLine("");
             var r = new Random();
             //a
